@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eTmjierXMqDXamCJPi9x48eHSTHZb6eNeHvzBN8d2wEatoCDNwdUEOA2Hv4eNH5Z7SdfX2l2aez2Etu63JZy/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\DateDayCalculator\\DateDayCalculator\\DateDayCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rpras\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rpras\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rpras\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rpras\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rpras\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rpras\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
